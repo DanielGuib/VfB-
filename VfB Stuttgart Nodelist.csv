@@ -1,0 +1,28 @@
+id,name,type,age,function,representation,position
+"TH,Thomas Hitzlsperger,0,38,V,""S, K, US"",""V, M"""
+OS,Oliver Schraft,0,53,V,K,M
+"CV,Claus Vogt,0,51,AR,N/A,""P, V, M"""
+"WP,Wilfried Porth,0,62,AR,N/A,""S, M"""
+RA,Rainer Adrion,0,67,AR,N/A,M
+"HJ,Hartmut Jenner,0,55,AR,N/A,""S, M"""
+FR,Franz Reiner,0,53,AR,N/A,M
+BS,Dr. Bertram Sugg,0,55,AR,N/A,M
+"TK,Tobias Keller,0,N/A,V,""F, V"",""IL, M"""
+VfB,VfB Suttgart,1,N/A,N/A,N/A,N/A
+V,Vorstand des VfB Stuttgart,3,N/A,N/A,N/A,N/A
+AR,Aufsichtsrat des VfB Stuttgart,3,N/A,N/A,N/A,N/A
+DFL,Deutsche Fußball Liga,2,N/A,N/A,N/A,N/A
+"KC,""""""Kommission Clubmedien"""" der DFL"",3,N/A,N/A,N/A,N/A"
+FCPF,FC PlayFair! ,2,N/A,N/A,N/A,N/A
+VBFCPF,Vereinsbeirat des FC PlayFair!,3,N/A,N/A,N/A,N/A
+DAG,Daimler AG,2,N/A,N/A,N/A,N/A
+VDAG,Vorstand der Daimler AG,3,N/A,N/A,N/A,N/A
+K,Alfred Kärcher SE & Co. KG,2,N/A,N/A,N/A,N/A
+VK,Vorstand der Alfred Kärcher SE & Co. KG,2,N/A,N/A,N/A,N/A
+AKFS,Alfred-Kärcher-Förderstiftung,2,N/A,N/A,N/A,N/A
+VAKFS,Vorstand der Alfred-Kärcher-Förderstiftung,3,N/A,N/A,N/A,N/A
+DMAG,Daimler Mobility AG,2,N/A,N/A,N/A,N/A
+VDMAG,Vorstand der Daimler Mobility AG,3,N/A,N/A,N/A,N/A
+RB,Robert Bosch GmbH,2,N/A,N/A,N/A,N/A
+DAfFK,Deutsche Akademie für Fußballkultur,2,N/A,N/A,N/A,N/A
+AfKuF,Amt für Kultur und Freizeit Nürnberg,2,N/A,N/A,N/A,N/A
